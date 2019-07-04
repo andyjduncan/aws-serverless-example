@@ -1,0 +1,19 @@
+{
+  "name": "aws-serverless-example",
+  "version": "1.0.0",
+  "description": "Examples of using the serverless framework with AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyjduncan/aws-serverless-example.git"
+  },
+  "author": "Andy Duncan <andy@adjectivecolournoun.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyjduncan/aws-serverless-example/issues"
+  },
+  "homepage": "https://github.com/andyjduncan/aws-serverless-example#readme"
+}
